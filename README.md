@@ -20,7 +20,7 @@
 <details>
 <summary>Reset Password</summary>
   <img src="https://user-images.githubusercontent.com/86552266/180680693-82d5795c-911f-45f6-b75a-c76d008de063.png">
-  <img src="[https://user-images.githubusercontent.com/86552266/180680693-82d5795c-911f-45f6-b75a-c76d008de063.png](https://user-images.githubusercontent.com/86552266/180680699-9e40a245-a83e-45a3-b1fd-cdbd56a3628a.png)">
+  <img src="https://user-images.githubusercontent.com/86552266/180680699-9e40a245-a83e-45a3-b1fd-cdbd56a3628a.png">
 </details>
 <details>
 <summary>Login to get Access Token and Refresh Token</summary>
