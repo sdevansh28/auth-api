@@ -3,7 +3,7 @@
 ## Features
 <details>
 <summary>Register a user</summary>
-  ![1 Register user](https://user-images.githubusercontent.com/86552266/180679516-f4b8911f-147f-4128-abd4-3dbda46f5afa.png)
+  <img src="https://user-images.githubusercontent.com/86552266/180679516-f4b8911f-147f-4128-abd4-3dbda46f5afa.png">
 </details>
 <details>
 <summary>Verify user's email address</summary>
