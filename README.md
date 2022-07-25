@@ -3,9 +3,13 @@
 ## Features
 <details>
 <summary>Register a user</summary>
-  hello moto
+  ![1 Register user](https://user-images.githubusercontent.com/86552266/180679516-f4b8911f-147f-4128-abd4-3dbda46f5afa.png)
 </details>
-2. Verify user's email address
+<details>
+<summary>Verify user's email address</summary>
+![2 User verification mail](https://user-images.githubusercontent.com/86552266/180679646-2dedfb60-5b1f-49e9-8c74-33f563b16e4c.png)
+![3 verifying user](https://user-images.githubusercontent.com/86552266/180679650-35f5c7e3-16d5-4323-8e3f-1dcb4d772d93.png)
+</details>
 3. Send forgot password email
 4. Reset password
 5. Get current user
