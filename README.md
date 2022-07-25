@@ -1,6 +1,9 @@
 # Authentication REST API with Node.js, TypeScript, Typegoose & Zod
 
 ## Features
+
+Toggle for images
+
 <details>
 <summary>Register a user</summary>
   <img src="https://user-images.githubusercontent.com/86552266/180679864-d598cc3f-229e-44f1-9d19-571ebbb097aa.png">
