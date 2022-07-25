@@ -3,7 +3,7 @@
 ## Features
 <details>
 <summary>Register a user</summary>
-hello moto
+  hello moto
 </details>
 2. Verify user's email address
 3. Send forgot password email
