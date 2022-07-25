@@ -7,9 +7,7 @@
 </details>
 <details>
 <summary>Verify user's email address</summary>
-  User Verification Email
   <img src="https://user-images.githubusercontent.com/86552266/180679646-2dedfb60-5b1f-49e9-8c74-33f563b16e4c.png">
-  Verifying User
   <img src="https://user-images.githubusercontent.com/86552266/180679650-35f5c7e3-16d5-4323-8e3f-1dcb4d772d93.png">
 </details>
 <summary>Send forgot password email</summary>
